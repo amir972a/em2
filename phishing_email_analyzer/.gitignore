@@ -1,0 +1,18 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+.env
+.venv/
+env.bak/
+venv.bak/
+
+# Outputs
+*_report.pdf
+
+# Sensitive samples
+*.eml
+*.msg
